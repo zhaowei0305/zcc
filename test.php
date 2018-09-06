@@ -1,2 +1,3 @@
 <?php
-echo "hello world";
+echo "hello world".PHP_EOL;
+echo "hello zhaowei".PHP_EOL;
